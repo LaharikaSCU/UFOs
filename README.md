@@ -6,7 +6,7 @@ The purpose of the project is to help Dana, a data journalist build a website to
 
 ## Results:
 
-In the website there are filters to skim through the table. User can filter using date of sighting, City, State, Country or shape. After entering the input, the results are displayed. Below is the walkthrough of the website along with images:
+In the website https://laharikascu.github.io/UFOs/ there are filters to skim through the table. User can filter using date of sighting, City, State, Country or shape. After entering the input, the results are displayed. Below is the walkthrough of the website along with images:
 
 The upper half of the webpage is the static content where Dana can publish her article on Mc Minniville. The text is hard-coded and does not change automatically until someone manually erases and types in new content in the back-end in the index.html page.
 
